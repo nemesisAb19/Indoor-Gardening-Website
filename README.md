@@ -36,3 +36,6 @@ It is a fully responsive **Indoor Gardening** webpage featuring information on h
 
 ## 📜 License
 This project is for academic and educational purposes only. Feel free to explore the code and improve upon it! 😊
+
+## Screenshots
+
