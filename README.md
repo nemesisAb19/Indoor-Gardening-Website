@@ -38,4 +38,4 @@ It is a fully responsive **Indoor Gardening** webpage featuring information on h
 This project is for academic and educational purposes only. Feel free to explore the code and improve upon it! 😊
 
 ## Screenshots
-
+![Image](https://github.com/user-attachments/assets/1a6d6b74-7cb3-4fdb-bed9-8438376f935f)
