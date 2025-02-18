@@ -18,16 +18,16 @@ It is a fully responsive **Indoor Gardening** webpage featuring information on h
 
 │── Images/     # Folder containing all images 
 
+|── README.md     # Project documentation
+
 │── indoor_gardening.html     # Main HTML file 
 
 │── styles_indoor_gardening.css     # CSS file for styling 
 
-|── README.md     # Project documentation
-
 ## How to Run the Project
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/Indoor-Gardening-Website.git
+   git clone https://github.com/nemesisAb19/Indoor-Gardening-Website.git
 
 2. Navigate to the project folder:
    cd Indoor-Gardening-Website
