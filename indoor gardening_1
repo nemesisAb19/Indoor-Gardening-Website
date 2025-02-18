@@ -1,0 +1,437 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+
+    <title>Indoor Gardening</title>
+
+       <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+      <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+      
+      <link rel="stylesheet" href="styles_indoor_gardening.css">
+
+<style>
+
+
+
+
+</style>
+  </head>
+
+  <body data-spy="scroll" data-target=".navbar" data-offset="50">
+    
+      <header>
+
+          <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
+
+         <div class="container">
+
+  <a class="navbar-brand" href="#">The Nature</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav ml-lg-auto">
+      <li class="nav-item">
+        <a class="nav-link" href="#home">Home <span class="sr-only">(current)</span></a>
+      </li>
+    
+  <li class="nav-item">
+        <a class="nav-link" href="#houseplants">Houseplants</a>
+      </li>
+
+   <li class="nav-item">
+        <a class="nav-link" href="#market">The Nature's Markets</a>
+      </li>
+
+    <li class="nav-item">
+        <a class="nav-link" href="#blog">Blog</a>
+      </li>
+
+   <li class="nav-item">
+        <a class="nav-link" href="#about">About</a>
+      </li>
+
+    <li class="nav-item">
+        <a class="nav-link" href="#contact">Contact</a>
+      </li>
+      
+    </ul>
+ 
+  </div>
+</div>
+</nav>
+
+     </header>
+
+     <div class="jumbotron jumbotron-fluid height100p banner" id= "home">
+       <div class="container h100">
+        
+        <div class= "contentBox h100">
+           
+              <div>
+                   <h1 data-aos="fade-down" data-aos-duration="2000" data-aos-delay="0">Welcome To The Nature</h1>
+
+                  <p data-aos="fade-down" data-aos-duration="500" data-aos-delay="0">We all need a little green in our lives.</p>
+              </div>
+    
+        </div>
+
+      </div>
+    </div>
+
+    <div class="home_body">
+        <div class="container">
+          <div class="headerText text-center">
+              <p style="font-size: 35px; color: greenyellow;">Grow Beautiful Houseplants!</p>
+
+            <p style="color: #d9ffb3;">The Nature is all about helping you find success in growing beautiful, healthy, thriving houseplants. Learn about your favorite houseplants: Do you need fertilizer? How much should you water them? Is the plant failing? Is it beyond help? Find the answers to these questions and more!</p>
+              <p style="font-size: 35px; color: greenyellow;">Practical tips & tools</p>
+
+              <p style="color: #d9ffb3">We’ll talk about my absolute favorite tips & tools! From being able to tell when plants really need water, to selecting the best plants for the light in your home, you’ll leave my blog with the knowledge you need to succeed with your houseplants.  </p>
+
+              <p style="font-size: 35px; color: greenyellow;">Dispell common myths!<p>
+
+              <p style="color: #d9ffb3">You can’t believe everything you read on the internet! Should I use mayonnaise to shine my plants’ leaves? Do I need pebbles at the bottom of my pots for drainage? Can I get the leaves of my African violet wet? We’ll solve every mystery together! </p>
+
+         </div>
+     </div>
+    </div>
+
+<section class= "sec1" id= "houseplants">
+     <div class= "container">
+         <div class= "row">
+              <div class="offset-sm-2 col-sm-8">   
+                    <div class= "headerText text-center">
+                          <h2 data-aos="fade-down" data-aos-duration="2000" data-aos-delay="0">Houseplants</h2>
+                          <p style="color: #d9ffb3;" data-aos="fade-down" data-aos-duration="500" data-aos-delay="0">A houseplant is a plant that is grown indoors in places such as residences and offices, namely for decorative purposes, but studies have also shown them to have positive psychological effects and as well as help with indoor air purification, since some species, and the soil-dwelling microbes associated with them, reduce indoor air pollution by absorbing volatile organic compounds including benzene, formaldehyde, and trichloroethylene. </p>
+                    </div>
+              </div>  
+         </div>
+
+         <div class="row">
+               <div class="col-sm-4">
+                     <div class="placeBox">
+                            <div class="imgbx">
+                                 <img src="Images/nature/aglaonema-1.jpg" class="img-fluid">
+                            </div>
+                            <div class="content">
+                            <h3>Great growing tips for Hindu Rope plant</h3>
+                            </div>
+                    </div>
+               </div>
+            
+               <div class="col-sm-4">
+                     <div class="placeBox">
+                            <div class="imgbx">
+                                 <img src="Images/nature/hydro-snake-2.jpg" class="img-fluid">
+                            </div>
+                            <div class="content">
+                            <h3>How to grow snake plants in water without soil!</h3>
+                            </div>
+                    </div>
+               </div>
+
+               <div class="col-sm-4">
+                     <div class="placeBox">
+                            <div class="imgbx">
+                                 <img src="Images/nature/ponytail-repot-1-360x480.jpg" class="img-fluid">
+                            </div>
+                            <div class="content">
+                            <h3>How to repot ponytail palm: 3 critical steps</h3>
+                            </div>
+                    </div>
+               </div>
+
+         </div>
+
+         <div class="row">
+            
+               <div class="col-sm-4">
+                     <div class="placeBox">
+                            <div class="imgbx">
+                                 <img src="Images/nature/photo-1596364725424-7673f05f64b1.jpeg" class="img-fluid" style="height: 400px;">
+                            </div>
+                            <div class="content">
+                            <h3>5 essential care and propagation tips</h3>
+                            </div>
+                    </div>
+               </div>
+
+               <div class="col-sm-4">
+                     <div class="placeBox">
+                            <div class="imgbx">
+                                 <img src="Images/nature/string-of-pearls-360x480.jpg" class="img-fluid" >
+                            </div>
+                            <div class="content">
+                            <h3>7 best Trellis supports for your Houseplants!</h3>
+                            </div>
+                    </div>
+               </div>
+
+               <div class="col-sm-4">
+                     <div class="placeBox">
+                            <div class="imgbx">
+                                 <img src="Images/nature/photo-1597772014117-b5af2ee85868.jpeg" class="img-fluid" style="height: 400px;">
+                            </div>
+                            <div class="content">
+                            <h3>Top 10 secrets why you’re failing to grow plants</h3>
+                            </div>
+                    </div>
+               </div>
+
+         </div>
+     </div>
+
+</section>
+
+<section class="sec2" id="market">
+
+    <div class="container h100">
+           <div class="contentBox h100">
+                 <div>
+                      <h2 data-aos="fade-down" data-aos-duration="2000" data-aos-delay="0">The Nature's - Independent Makers and Growers Market</h2><br>
+
+                      <p style="font-size: 35px; color: greenyellow;">Covid-19 Update</p>
+                      <p style="font-size: 18px; color: #d9ffb3;">It is with a heavy heart that we are formally announcing the postponement of The Nature. We had hoped we would have firm date to reschedule to but in light on the ongoing crisis and situation across the world we will have no replacement date to announce. We are determined to make it happen though so watch this space!<p>
+
+                      <p style="font-size: 35px; color: greenyellow;">The Nature's Market</p>
+                     <p style="font-size: 18px; color: #d9ffb3;">We’ve been hosting plant swaps for two years and love our wonderful community of plant for fans in Kolkata. We also know that everyone (well us anyway!) have secret wish lists of plants. And however fast folks propagate there are never enough monstera, string of pearls or other special pretties to keep us satisfied.</p>
+
+                <p style="font-size: 35px; color: greenyellow;">Our First Nature's Market</p>
+                    <p style="font-size: 18px; color: #d9ffb3;">Sadly our first Plantalia makers and growers market that was scheduled to be on Saturday 25th April 2020 at the fantastic Hagglers Corner, Sheffield is now formally postponed. We are working as hard as we can to find a new date ad we’ll let you know as soon as we have one.</p>
+                 </div>
+            </div>
+    </div>
+
+
+</section>
+
+
+<section class="blog" id="blog">
+    <div class="container">
+         <div class="row">
+              <div class="offset-sm-2 col-sm-8">
+                     <div class="headerText text-center">
+                           <h2 data-aos="fade-down" data-aos-duration="2000" data-aos-delay="0">Our Latest Post</h2>
+                           <p style="color: #d9ffb3;" data-aos="fade-down" data-aos-duration="500" data-aos-delay="0"> Here’s where the magic begins! All of our best tips are found on my blog.</p>
+                     </div>
+                </div>
+         </div>
+
+         <div class="row">
+               <div class=" col-sm-4">
+                     <div class="blogpost">
+                           <div class="imgBx">
+                                <img src="Images/nature/plant_garden.jfif" class=" img-fluid" >
+                           </div>
+
+                          <div class="content" >
+                               <h2>Postponed due to covid-19: The Nature's Market</h2>
+                              <p>It is with a heavy heart that we are formally announcing the postponement of Plantalia. We had...</p>
+                              <a href="#" class="btn btnD2">Read More</a>
+                              <div class="clearfix"></div>
+                              
+                         </div>
+
+                     </div>
+               </div>
+
+                     <div class=" col-sm-4">
+                     <div class="blogpost">
+                           <div class="imgBx">
+                                <img src="Images/nature/plant_watering.jfif" class=" img-fluid" >
+                           </div>
+
+                          <div class="content" >
+                               <h2>Top tips on how to tell when to water your houseplants</h2>
+                              <p>At the other end of the spectrum if you’ve had a plant die from not being watered then you might... </p>
+                              <a href="#" class="btn btnD2">Read More</a>
+                              <div class="clearfix"></div>
+                         </div>
+
+                     </div>
+               </div>
+
+                
+             <div class=" col-sm-4">
+                     <div class="blogpost">
+                           <div class="imgBx">
+                                <img src="Images/nature/humidity.jfif" class=" img-fluid" >
+                           </div>
+
+                          <div class="content" >
+                               <h2>Humidity and how it affects your houseplants</h2>
+                              <p>Have you considered humidity and how it affects your houseplants? Some have argued that humidity...</p>
+                              <a href="#" class="btn btnD2">Read More</a>
+                              <div class="clearfix"></div>
+                         </div>
+
+                     </div>
+               </div>
+        </div>
+             
+             <div class="row">
+               <div class=" col-sm-4">
+                     <div class="blogpost">
+                           <div class="imgBx">
+                                <img src="Images/nature/home%20plants.jfif" class=" img-fluid" >
+                           </div>
+
+                          <div class="content" >
+                               <h2>when is the best time to move your Houseplants inside</h2>       
+                              <p>Unfortunately, it is already starting to get cold here in the northern United States...</p>
+                              <a href="#" class="btn btnD2">Read More</a>
+                              <div class="clearfix"></div>
+                              
+                         </div>
+
+                     </div>
+               </div>
+                 
+                 <div class=" col-sm-4">
+                     <div class="blogpost">
+                           <div class="imgBx">
+                                <img src="Images/nature/home%20plants_1.jfif" class=" img-fluid" >
+                           </div>
+
+                          <div class="content" >
+                               <h2>The best Houseplants for your home and office</h2>
+                              <p>Are you working from home? Why not add some plants to your home office? You will be surprised by the benefits they’ll offer...</p>
+                              <a href="#" class="btn btnD2" >Read More</a>
+                              <div class="clearfix"></div>
+                         </div>
+
+                     </div>
+               </div>
+
+               <div class=" col-sm-4">
+                     <div class="blogpost">
+                           <div class="imgBx">
+                                <img src="Images/nature/plant_identify.jfif" class=" img-fluid">
+                           </div>
+
+                          <div class="content" >
+                               <h2>How to identify your plant - don't let it be a mystery</h2>
+                              <p>Like pets there is not a one size fits all approach…..feed your dog rabbit food and he’ll soon keel over and vice versa! Plants have...</p>
+                              <a href="#" class="btn btnD2" >Read More</a>
+                              <div class="clearfix"></div>
+                         </div>
+
+                     </div>
+               </div>
+
+         </div>
+
+     </div>
+
+</section>
+
+
+<section class="contact" id="contact">
+
+<div class="container">
+     <div class="row">
+          <div class="col-sm-12">
+               <div  class="headerText text-center">
+                    <h2 data-aos="fade-down" data-aos-duration="2000" data-aos-delay="0">Contact Us</h2>
+                    <p style="color: #d9ffb3;" data-aos="fade-down" data-aos-duration="500" data-aos-delay="0">For questions, comments, or just to say hello, fill out this quick form! We’ll get back to you within a 24-48 hours. </p>
+
+                     <p style="color: #d9ffb3;" style="color: #d9ffb3;" data-aos="fade-down" data-aos-duration="500" data-aos-delay="0">Also, a real person is behind this form! We only use the form to help prevent spam.</p>
+               </div>
+          </div>
+     </div>
+
+     <div class="row clearfix">
+         <div class="offset-sm-2 col-sm-8">
+              <form>
+                   <div class="form-group">
+                        <label style="color: white;
+    font-size: 1.25rem;">Name</label>
+                         <input type="text" name=" " class="form-control">
+                   </div>
+
+                   <div class="form-group">
+                        <label style="color: white;
+    font-size: 1.25rem;">Email-Id</label>
+                         <input type="text" name=" " class="form-control">
+                   </div>
+       
+                   <div class="form-group">
+                        <label style="color: white;
+    font-size: 1.25rem;">Phone</label>
+                         <input type="text" name=" " class="form-control">
+                   </div>
+   
+                   <div class="form-group">
+                        <label style="color: white;
+    font-size: 1.25rem;">Message</label>
+                         <textarea class="form-control textarea" name=" "></textarea>
+                   </div>
+
+                    <div class="form-group text-center">
+                        <button class="btn btnD1" style="color: black;
+    font-size: 1.25rem; background-color: azure; border-radius: 50px; width: 100px; border-width: inherit">Send</button>
+                   </div>
+              </form>
+          </div>
+      </div>
+</div>
+
+</section>
+
+<footer>
+<div class="container">
+     <div class="row">
+          <div class="col-sm-12">
+                <u1 class="sci">
+                    <li><a href="#"><i class="fa fa-facebook"></i></a></li> <!-- use font awesome icons -->
+                    
+                    <li><a href="#"><i class="fa fa-instagram"></i></a></li> <!-- use font awesome icons -->
+                    
+                    <li><a href="#"><i class="fa fa-twitter"></i></a></li> <!-- use font awesome icons -->
+                    
+                    <li><a href="#"><i class="fa fa-linkedin"></i></a></li> <!-- use font awesome icons -->
+                    
+                    <li><a href="#"><i class="fa fa-pinterest"></i></a></li> <!-- use font awesome icons -->
+                    
+                    <li><a href="#"><i class="fa fa-google-plus"></i></a></li> <!-- use font awesome icons -->
+
+                </u1>
+               <p class="cpryt">
+                  ©2020 All Rights Reserved by The Nature | Web Design by Abhijit Saptarshi Tushar Aman Reshika
+              </p>
+          </div>
+     </div>
+</div>
+</footer>
+
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+      <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+      <script>
+        AOS.init();
+      </script>
+
+<script>
+    $(document).scroll(function(){
+          $('.navbar').toggleClass('.scrolled', $(this). scrollTop() > $('.navbar').height());
+});
+</script>
+  </body>
+</html>
+
+<!-- 1300; 900 
+button 50mins 
+background-color: #eeffe6;"
+scroll-behavior: smooth;---->
